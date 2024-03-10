@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryal-rajiv
 - 👀 I’m interested in Web technology and frontend development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP
 - 💞️ I’m ready to share what i know and always looking forward to learn from others
 - 📫 Reach me at https://www.linkedin.com/feed/
 
