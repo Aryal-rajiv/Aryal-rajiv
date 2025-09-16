@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryal-rajiv
-- 👀 I’m interested in Web technology and frontend development
+- 👀 I’m interested in Web technology and APIs
 - 🌱 I’m currently learning MERN
 - 💞️ I’m ready to share what I know and always looking forward to learning from others
 - 📫 Reach me at https://www.linkedin.com/in/%F0%9F%8C%B1rajiv-aryal-3610bb198/
